@@ -1,0 +1,18 @@
+EXPORTS
+    _ZN3con2kb7keyDownEi @1
+    _ZN3con5ticksEv @2
+    _ZNK3con3cls4passERSo @3
+    _ZNK3con4dimm4passERSo @4
+    _ZNK3con5color4passERSo @5
+    _ZNK3con6cursor4passERSo @6
+    _ZTIN3con3clsE @7 DATA
+    _ZTIN3con4dimmE @8 DATA
+    _ZTIN3con5colorE @9 DATA
+    _ZTIN3con6cursorE @10 DATA
+    _ZTIN3con8modifierE @11 DATA
+    _ZTVN3con3clsE @12 DATA
+    _ZTVN3con4dimmE @13 DATA
+    _ZTVN3con5colorE @14 DATA
+    _ZTVN3con6cursorE @15 DATA
+    _ZTVN3con8modifierE @16 DATA
+    _ZlsRSoRKN3con8modifierE @17
